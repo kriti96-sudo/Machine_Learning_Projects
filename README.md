@@ -12,3 +12,9 @@ Make recomendation engine for books.
    Create Interactive visualization to check different types of jobs are available
    Create Word Cloud for Companies and jobs Title
    Create interact for searching job and job recommention engine
+
+3. Online_shopping :
+   Create different group of customer on their buying pattern---Recency,Frequency and Monetary
+   Create cluster by using sklearn.cluster and import KMeans
+   Evaluation of clustering by using silhouette_score
+   Create recommendation engine for Data Filtering
